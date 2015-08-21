@@ -3031,6 +3031,15 @@ namespace JabbR {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Roll a dice (eg. 1d20+5)..
+        /// </summary>
+        public static string Roll_CommandInfo {
+            get {
+                return ResourceManager.GetString("Roll_CommandInfo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to You do not have access to {0}..
         /// </summary>
         public static string RoomAccessPermission {

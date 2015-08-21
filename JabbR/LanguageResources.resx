@@ -1287,4 +1287,7 @@ Use ? or type /? to display the FAQ and list of commands.</value>
   <data name="Account_OwnedRooms" xml:space="preserve">
     <value>Owned Rooms</value>
   </data>
+  <data name="Roll_CommandInfo" xml:space="preserve">
+    <value>Roll a dice (eg. 1d20+5).</value>
+  </data>
 </root>
